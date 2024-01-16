@@ -6,6 +6,6 @@ heipä hei
 
 moro moro
 
-# Koodia
 
-print("Hello world!")
+
+
